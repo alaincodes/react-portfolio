@@ -1,2 +1,2 @@
 # react-portfolio
-Building portfolio with React..
+Building portfolio using Next.js and Express..
